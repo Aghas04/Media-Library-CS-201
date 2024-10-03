@@ -1,0 +1,23 @@
+ERROR: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+stoi
+ERROR: B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+stoi
+ERROR: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+invalid rating value
+ERROR: B,Watchmen,Alan Moore,8,Sci-Fi,416,1987,ERROR
+stoi
+ERROR: S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+invalid year value
+ERROR: S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+stoi
+ERROR: S,Stayin' Alive,Bee Gees,10,Pop,419,1979,ERROR
+stoi
+unable to Proccess command: Invalid item entered for Psych 2: Lassie Come Home
+unable to Proccess command: Invalid item entered for Respect
+unable to Proccess command: Invalid item entered for Strawberry Fields Forever
+unable to Proccess command: Invalid item entered for The Brothers Hawthorne
+unable to Proccess command: Invalid item entered for Lessons in Chemistry
+unable to Proccess command: Invalid item entered for Lessons in Chemistry
+Unable to process command. The key name: Beatles is not a key name in any media in your list
+Unable to process command. The key name: Harrison Ford is not a key name in any media in your list
+Unable to process command. The key name: Stephen King is not a key name in any media in your list
